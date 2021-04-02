@@ -3,6 +3,12 @@ my:
   application:
     name: config-server
 
+db:
+  server: test
+  host: 171.0.0.1
+  user: user1
+  psw:psw
+
 spring:
   application:
     name: config-server
