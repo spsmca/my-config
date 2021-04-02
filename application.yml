@@ -1,5 +1,5 @@
 my:
-  greeting: Hello app-default/Philip
+  greeting: Hello Philip application-default
   application:
     name: application
     profile: default
