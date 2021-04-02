@@ -1,7 +1,8 @@
 my:
-  greeting: Hello Philip/bbbbbb
+  greeting: Hello app-default/Philip
   application:
-    name: config-server
+    name: application
+    profile: default
 
 db:
   server: test
