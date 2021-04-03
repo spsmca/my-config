@@ -12,4 +12,8 @@ db:
   host: 171.0.0.1
   user: user1
   psw: psw
+  
+special:
+  greeting: Hello Silvin-demo
+  
 

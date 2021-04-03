@@ -13,3 +13,6 @@ db:
   user: user1
   psw: psw
 
+  
+special:
+  greeting: Hello Silvin-test
