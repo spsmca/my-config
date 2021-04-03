@@ -1,6 +1,6 @@
 my:
   mail:
     server:
-      name: mail Server application-defaul
+      name: My Mail Server application-defaul
       port: 5051
       user: user1
