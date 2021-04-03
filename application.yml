@@ -5,7 +5,7 @@ my:
     profile: default
 
 db:
-  server: test
+  server: application
   host: 171.0.0.1
   user: user1
   psw: psw
