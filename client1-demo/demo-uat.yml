@@ -1,0 +1,12 @@
+my:
+  greeting: Hello Philip demo-uat
+  application:
+    name: demo
+    profile: uat
+
+db:
+  server: demo
+  host: 171.0.0.1
+  user: user1
+  psw: psw
+
