@@ -2,13 +2,13 @@ server:
   port: 4241
   
 my:
-  greeting: Hello Philip test-dev
+  greeting: Hello Philip client2/test-dev
   application:
-    name: test
-    profile: dev
+    name: client2/test-dev
+    profile: client2/test-dev
 
 db:
-  server: test
+  server: client2/test-dev
   host: 171.0.0.1
   user: user1
   psw: psw

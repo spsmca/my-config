@@ -4,11 +4,11 @@ server:
 my:
   greeting: Hello Philip test-uat
   application:
-    name: test
-    profile: uat
+    name: test-uat
+    profile: test-uat
 
 db:
-  server: test
+  server: test-uat
   host: 171.0.0.1
   user: user1
   psw: psw

@@ -1,14 +1,14 @@
 server:
-  port: 3032
+  port: 5050
   
 my:
   greeting: Hello Philip test-default
   application:
-    name: test
-    profile: default
+    name: test-default
+    profile: test-default
 
 db:
-  server: test
+  server: test-default
   host: 171.0.0.1
   user: user1
   psw: psw

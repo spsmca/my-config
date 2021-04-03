@@ -2,13 +2,13 @@ server:
   port: 4240
   
 my:
-  greeting: Hello Philip test-default
+  greeting: Hello Philip client2/test-default
   application:
-    name: test
-    profile: default
+    name: client2/test-default
+    profile: client2/test-default
 
 db:
-  server: test
+  server: client2/test-default
   host: 171.0.0.1
   user: user1
   psw: psw

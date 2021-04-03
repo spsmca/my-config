@@ -1,11 +1,14 @@
+server:
+  port: 4242
+  
 my:
-  greeting: Hello Philip test-uat
+  greeting: Hello Philip client2/test-uat
   application:
-    name: test
-    profile: uat
+    name: client2/test-uat
+    profile: client2/test-uat
 
 db:
-  server: test
+  server: client2/test-uat
   host: 171.0.0.1
   user: user1
   psw: psw

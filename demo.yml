@@ -4,11 +4,11 @@ server:
 my:
   greeting: Hello Philip demo-default
   application:
-    name: demo
-    profile: default
+    name: demo-default
+    profile: demo-default
 
 db:
-  server: demo
+  server: demo-default
   host: 171.0.0.1
   user: user1
   psw: psw

@@ -1,11 +1,14 @@
+server:
+  port: 4140
+  
 my:
-  greeting: Hello Philip demo-default
+  greeting: Hello Philip client1/demo-default
   application:
-    name: demo
-    profile: default
+    name: client1/demo-default
+    profile: client1/demo-default
 
 db:
-  server: demo
+  server: client1/demo-default
   host: 171.0.0.1
   user: user1
   psw: psw
