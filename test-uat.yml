@@ -1,3 +1,6 @@
+server:
+  port: 5052
+  
 my:
   greeting: Hello Philip test-uat
   application:

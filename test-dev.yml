@@ -1,3 +1,6 @@
+server:
+  port: 5051
+  
 my:
   greeting: Hello Philip test-dev
   application:

@@ -1,3 +1,6 @@
+server:
+  port: 4042
+  
 my:
   greeting: Hello Philip demo-uat
   application:

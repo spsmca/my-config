@@ -1,3 +1,6 @@
+server:
+  port: 3031
+  
 my:
   greeting: Hello Philip application-dev
   application:
