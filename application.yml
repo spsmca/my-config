@@ -1,3 +1,6 @@
+server:
+  port: 7570
+  
 my:
   greeting: Hello Philip application-default
   application:
@@ -9,4 +12,3 @@ db:
   host: 171.0.0.1
   user: user1
   psw: psw
-
